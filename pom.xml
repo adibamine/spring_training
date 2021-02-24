@@ -25,6 +25,7 @@
     <module>aop</module>
     <module>async</module>
     <module>profile</module>
+    <module>boilerplate</module>
   </modules>
 
 
