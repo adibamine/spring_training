@@ -21,7 +21,7 @@ public class AppStartupRunner implements ApplicationRunner {
         Files.readAllBytes(file1.toPath()));
     String file2Text = new String(
         Files.readAllBytes(file2.toPath()));
-    log.info("file texttt: {}", file1Text);
-    log.info("fileeee texttt2: {}", file2Text);
+    log.info("file1 text: {}", file1Text);
+    log.info("file2 text: {}", file2Text);
   }
 }

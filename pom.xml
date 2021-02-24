@@ -26,6 +26,7 @@
     <module>async</module>
     <module>profile</module>
     <module>boilerplate</module>
+    <module>test</module>
   </modules>
 
 
