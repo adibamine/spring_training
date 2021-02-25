@@ -27,6 +27,7 @@
     <module>profile</module>
     <module>boilerplate</module>
     <module>test</module>
+    <module>spel</module>
   </modules>
 
 
