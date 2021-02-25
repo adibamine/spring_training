@@ -1,0 +1,4 @@
+employee:
+  names: Petey Cruiser,Anna Sthesia,Paul Molive,Buck Kinnear
+  type: contract,fulltime,external
+  age: "{one:'26', two : '34', three : '32', four: '25'}"
