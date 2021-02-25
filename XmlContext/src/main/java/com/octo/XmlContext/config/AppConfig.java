@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 public class AppConfig {
 
     @Bean
-    public EmailService getEmailService(){
+    public EmailService emailService2(){
         return new EmailService();
     }
 }

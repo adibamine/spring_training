@@ -20,9 +20,9 @@ public class XmlContextApplication {
 		emailService.send("toto@gmail.com","hello");
 
 		//Context using Class Configuration
-		ApplicationContext applicationContext1 = new AnnotationConfigApplicationContext(AppConfig.class);
-		EmailService emailService1 = applicationContext1.getBean("getEmailService",EmailService.class);
-		emailService1.send("bob@gmail.com","Hi");
+		//ApplicationContext applicationContext1 = new AnnotationConfigApplicationContext(AppConfig.class);
+		//EmailService emailService1 = applicationContext1.getBean("emailService2",EmailService.class);
+		//emailService1.send("bob@gmail.com","Hi");
 	}
 
 }
