@@ -28,6 +28,7 @@
     <module>boilerplate</module>
     <module>test</module>
     <module>spel</module>
+    <module>batch</module>
   </modules>
 
 
